@@ -26,3 +26,7 @@
 - Encha as formas com o creme até 3/4 da capacidade.
 - Leve ao forno por cerca de 15-20 minutos ou até que a massa esteja dourada e o creme tenha formado uma crosta.
 - Retire do forno, deixe esfriar um pouco e polvilhe com canela em pó antes de servir.
+
+## Resultado:
+
+![Pastel de nata](../img/pastel.jpg)

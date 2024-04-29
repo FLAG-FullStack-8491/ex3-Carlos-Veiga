@@ -21,3 +21,7 @@
 - Junte a couve-galega e deixe cozinhar por alguns minutos.
 - Retifique o sal, se necessário.
 - Sirva o caldo verde quente, adicionando as rodelas de chouriço por cima.
+
+## Resultado:
+
+![Caldo Verde](../img/caldo.jpg)

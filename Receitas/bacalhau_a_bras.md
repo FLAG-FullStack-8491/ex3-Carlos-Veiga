@@ -22,3 +22,7 @@
 - Num recipiente à parte, bata os ovos com um pouco de sal e pimenta e adicione à mistura de bacalhau.
 - Mexa tudo muito bem até que os ovos estejam cozidos.
 - Sirva polvilhado com salsa picada.
+
+## Resultado:
+
+![Bacalhau à Brás](../img/Bacalhau-a-bras.jpg)
