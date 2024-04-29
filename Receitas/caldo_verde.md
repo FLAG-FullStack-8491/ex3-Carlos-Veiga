@@ -12,6 +12,9 @@
 Azeite de oliva
 Sal a gosto
 
+CONFLICT - ARRANJA ISTO POR FAVOR
+
+
 ## Modo de preparo:
 
 Cozinhe as batatas em água com sal até ficarem macias.
