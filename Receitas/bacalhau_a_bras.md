@@ -25,4 +25,4 @@
 
 ## Resultado:
 
-![Bacalhau à Brás](../img/bacalhau-a-bras.jpg)
+![Bacalhau à Brás](../img/bacalhau_a_bras.jpg)
