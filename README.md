@@ -1,9 +1,8 @@
-# ex3-Carlos-Veiga
 
 # Livro de Receitas
 
 ## Todas as receitas
 
-Bacalhau a Bras
-Caldo Verde
-Pasteis de Nata
+Bacalhau a Bras <br>
+Caldo Verde <br>
+Pasteis de Nata <br>
